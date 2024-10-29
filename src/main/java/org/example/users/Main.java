@@ -6,8 +6,12 @@ public class Main {
     User user1 = new User("Paloma", "Babot");
     User user2 = new User("Ana", "López");
 
-    user1.printFullName();
-    user2.printFullName();
+        System.out.println(user1.fullName());
+        System.out.println(user2.fullName());
+
+    /* Utilizando algun bucle imprime los fullNames de 3 usuarios diferentes
+    Imprimir desde fuera no vale poner el sout dentro de la clase, imprimiremos desde el Main
+     */
 
     }
 
