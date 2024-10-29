@@ -6,7 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="a396c4d9-899f-430a-879e-4258a1fb24bc" name="Changes" comment="Feat: Strings">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/users/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/users/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/basics/Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/basics/Arrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/basics/Conditionals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/basics/Conditionals.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,9 +28,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2o7R5eAi0JEzKAUHfd2rgqFOsIf" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -42,6 +43,7 @@
   "keyToString": {
     "Application.Arrays.executor": "Run",
     "Application.Arrays01.executor": "Run",
+    "Application.Conditionals.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.PrimitiveTypes.executor": "Run",
     "Application.Strings.executor": "Run",
@@ -56,6 +58,7 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "/Users/paloma/Downloads/bootCampAWSF5/javaf5/exercices/introduccionJava/src/main/java/org/example/Main.java",
+    "run.code.analysis.last.selected.profile": "pProject Default",
     "settings.editor.selected.configurable": "inlay.hints",
     "vue.rearranger.settings.migration": "true"
   }
@@ -68,7 +71,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1730218445886</updated>
-      <workItem from="1730218446913" duration="11738000" />
+      <workItem from="1730218446913" duration="11861000" />
+      <workItem from="1730231037872" duration="2019000" />
     </task>
     <task id="LOCAL-00001" summary="Feat: Strings">
       <option name="closed" value="true" />

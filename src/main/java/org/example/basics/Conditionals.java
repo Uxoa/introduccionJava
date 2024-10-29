@@ -2,19 +2,31 @@ package org.example.basics;
 
 public class Conditionals {
     public static void main(String[] args) {
-        boolean isActive = true;
+        boolean isActive = false;
+
         // variable edad de un usuario con la mínima memoria posible
+        byte age = 18;
 
 
-        // Imprimir "el usu es mayor de edad si tiene 18 o más"
-        // Imprimir "el usu es menor de edad si tiene 18 o menos"
-
+        // Imprimir "el usu es mayor de edad" si tiene 18 o más"
+        if (age >= 18){
+            System.out.println("El usuario es mayor de edad");
+        }
+        // Imprimir "el usu es menor de edad" si tiene menos de 18 año"
+        if (age < 18){
+            System.out.println("El usuario es menor de edad");
+        }
 
 
         // Imprimir el usuario está activo si está activo
-        // Imprimir el usuario esta inactivio si está inactivo
+        if (isActive){
+            System.out.println("El usuario esta Activo");
+        }
+        // Imprimir el usuario esta inactivo si está inactivo
+        if (!isActive){
+            System.out.println("El usuario esta inactivo");
+        };
 
-        if (isActive);
 
 
     }

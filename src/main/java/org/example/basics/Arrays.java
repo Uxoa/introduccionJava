@@ -12,7 +12,7 @@ public class Arrays {
 
     // Imprimir linea a linea todos los numeros
         for(int number : numbers) {
-            System.out.println("number" + number );
+            System.out.println("number" + " " + number );
         }
 
 
