@@ -27,7 +27,5 @@ public class Conditionals {
             System.out.println("El usuario esta inactivo");
         };
 
-
-
     }
 }

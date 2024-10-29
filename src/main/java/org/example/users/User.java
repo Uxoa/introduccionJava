@@ -13,4 +13,8 @@ public class User {
       public String fullName(){
             return name + "" + surname;
       }
+
+      /* Utilizando algun bucle imprime los fullNames de 3 usuarios diferentes
+      Imprimir desde fuera no vale poner el sout dentro de la clase, imprimiremos desde el Main
+     */
 }

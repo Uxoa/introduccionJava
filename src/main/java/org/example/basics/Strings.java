@@ -6,6 +6,7 @@ public class Strings {
         // Imprimir por consola una comparacion de dos strings con el metodo equals
         String name = "Paloma";
         String surname = new String("Babot");
+
         String fullName = name + " " + surname;
 
         System.out.println(fullName);
