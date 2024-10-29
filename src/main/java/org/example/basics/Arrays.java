@@ -16,7 +16,7 @@ public class Arrays {
         }
 
 
-    // Imprimir
+    // Imprimir las ciudades en una linea
         System.out.println(java.util.Arrays.toString(cities));
     }
 }
