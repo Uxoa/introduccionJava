@@ -1,8 +1,6 @@
 package org.example.basics;
 
-import java.util.Arrays;
-
-public class Arrays01 {
+public class Arrays {
 
     public static void main(String[] args) {
 
@@ -19,6 +17,6 @@ public class Arrays01 {
 
 
     // Imprimir
-        System.out.println(Arrays.toString(cities));
+        System.out.println(java.util.Arrays.toString(cities));
     }
 }

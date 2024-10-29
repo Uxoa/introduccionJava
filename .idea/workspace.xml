@@ -5,14 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a396c4d9-899f-430a-879e-4258a1fb24bc" name="Changes" comment="Feat: Strings">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/basics/Arrays01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/basics/Conditionals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/basics/Loops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/users/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/users/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/basics/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/PrimitiveTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/basics/PrimitiveTypes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Strings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/basics/Strings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/basics/Arrays01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/basics/Arrays.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,8 +18,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="package-info" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -48,6 +44,7 @@
   "keyToString": {
     "Application.Arrays.executor": "Run",
     "Application.Arrays01.executor": "Run",
+    "Application.Main.executor": "Run",
     "Application.PrimitiveTypes.executor": "Run",
     "Application.Strings.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -73,7 +70,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1730218445886</updated>
-      <workItem from="1730218446913" duration="7959000" />
+      <workItem from="1730218446913" duration="10709000" />
     </task>
     <task id="LOCAL-00001" summary="Feat: Strings">
       <option name="closed" value="true" />
