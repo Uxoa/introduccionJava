@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a396c4d9-899f-430a-879e-4258a1fb24bc" name="Changes" comment="Fix: Arrays commit message">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/palomacar/Coche.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/palomacar/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/coche/Coche.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/coche/Coche.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/palomacar/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
