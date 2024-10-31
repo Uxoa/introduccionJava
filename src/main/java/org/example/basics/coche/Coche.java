@@ -1,4 +1,4 @@
-package org.example.coche;
+package org.example.basics.coche;
 
 public class Coche {
 

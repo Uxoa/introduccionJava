@@ -4,10 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a396c4d9-899f-430a-879e-4258a1fb24bc" name="Changes" comment="Fix: Arrays commit message">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/palomabookmanager/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/palomabookmanager/README.md" afterDir="false" />
+    <list default="true" id="a396c4d9-899f-430a-879e-4258a1fb24bc" name="Changes" comment="Feat: palomaBookStore exercice">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/basics/PrimitiveTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/basics/PrimitiveTypes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/basics/Strings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/basics/Strings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/coche/Coche.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/basics/coche/Coche.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/coche/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/basics/coche/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/coche/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/basics/coche/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/palomabookmanager/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/palomabookmanager/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,31 +43,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Arrays.executor": "Run",
-    "Application.Arrays01.executor": "Run",
-    "Application.Conditionals.executor": "Run",
-    "Application.Loops.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.PrimitiveTypes.executor": "Run",
-    "Application.Strings.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "/Users/paloma/Downloads/bootCampAWSF5/javaf5/exercices/introduccionJava/src/main/java/org/example/Main.java",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "editor.preferences.completion",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Arrays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Arrays01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Conditionals.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Loops.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrimitiveTypes.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Strings.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/paloma/Downloads/bootCampAWSF5/javaf5/exercices/introduccionJava/src/main/java/org/example/Main.java&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.completion&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -74,6 +78,9 @@
       <updated>1730218445886</updated>
       <workItem from="1730218446913" duration="11861000" />
       <workItem from="1730231037872" duration="8065000" />
+      <workItem from="1730365901741" duration="2647000" />
+      <workItem from="1730378151477" duration="1982000" />
+      <workItem from="1730393766483" duration="567000" />
     </task>
     <task id="LOCAL-00001" summary="Feat: Strings">
       <option name="closed" value="true" />
@@ -99,7 +106,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730234624721</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Feat: palomaBookStore exercice">
+      <option name="closed" value="true" />
+      <created>1730329703898</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1730329703898</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,7 +124,8 @@
     <MESSAGE value="Feat: Development Conditionals exercice" />
     <MESSAGE value="Feat: Strings" />
     <MESSAGE value="Fix: Arrays commit message" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fix: Arrays commit message" />
+    <MESSAGE value="Feat: palomaBookStore exercice" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feat: palomaBookStore exercice" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
