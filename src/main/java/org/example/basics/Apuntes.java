@@ -35,7 +35,7 @@ public class Apuntes {
         // Números Mágicos: ¿De dónde viene el 1.25? ¿y qué es el 60? ---> NO CLEAN CODE
 
 
-        // Conversión explícita de tipos
+
     }
 
 }

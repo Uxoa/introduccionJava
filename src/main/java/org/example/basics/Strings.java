@@ -7,6 +7,12 @@ public class Strings {
 
     public static void main(String[] args) {
         // Imprimir por consola una comparación de dos strings con el método equals
+        String uno = "Java";
+        String dos = "Python";
+        Boolean sonIguales = uno.equals(dos);
+        System.out.println("¿Son iguales? " + sonIguales);
+
+
 
 
 
