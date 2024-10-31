@@ -21,23 +21,5 @@ public class PrimitiveTypes {
         double doble = 7;
         System.out.println(doble);
         char car = 47;
-
-
-    // Incremento y decremento: no solo devuelven un valor, sino que también modifican el valor de la variable.
-        var i = 0;
-        //Al utilizar la notación prefija, primero se produce la modificación de la variable y luego se devuelve.
-        ++i; // 1
-        ++i; // 2
-        --i; // 1
-        --i; // 0
-
-        //Al utilizar la notación posfija, primero se devuelve y luego se modifica la variable.
-        i++; // 0
-        i++; // 1
-        i--; // 2
-        i--; // 1
-
-
-
     }
 }
