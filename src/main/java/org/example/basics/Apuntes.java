@@ -32,6 +32,10 @@ public class Apuntes {
         System.out.println(amountEuros);
         amountEuros = amountEuros * 60;
         System.out.println(amountEuros);
+        // Números Mágicos: ¿De dónde viene el 1.25? ¿y qué es el 60? ---> NO CLEAN CODE
+
+
+        // Conversión explícita de tipos
     }
 
 }
