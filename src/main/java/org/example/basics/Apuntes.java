@@ -35,6 +35,23 @@ public class Apuntes {
         // Números Mágicos: ¿De dónde viene el 1.25? ¿y qué es el 60? ---> NO CLEAN CODE
 
 
+        // STRINGS: substrings ---> método que extrae una subcadena de una cadena
+        // El primer parámetro es el índice desde el cual se debe comenzar a extraer la subcadena.
+        // El segundo parámetro es el índice hasta el cual se deben extraer los caracteres.
+        // Por defecto, se toma la cadena hasta el final:
+
+        "hexlet".substring(1); // "exlet"
+        "hexlet".substring(1, 2); // "e"
+        "hexlet".substring(1, 3); // "ex"
+        "hexlet".substring(3, 6); // "let"
+
+        var searchEngine = "google";
+        // .charAT() --> Devuelve carácter tipo char
+        searchEngine.charAt(0); // 'g'
+        // .length() --> devuelve el tamaño de la cadena
+        searchEngine.length(); // 6
+        //replace() --> el primero es lo que se va a reemplazar y el segundo es por qué se va a reemplazar
+        searchEngine.replace("go", "mo"); // "moogle"
 
     }
 

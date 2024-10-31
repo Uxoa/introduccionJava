@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a396c4d9-899f-430a-879e-4258a1fb24bc" name="Changes" comment="Feat: palomaBookStore exercice" />
+    <list default="true" id="a396c4d9-899f-430a-879e-4258a1fb24bc" name="Changes" comment="Feat: Exercice Strings">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/basics/Apuntes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/basics/Apuntes.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,7 +75,7 @@
       <workItem from="1730231037872" duration="8065000" />
       <workItem from="1730365901741" duration="2647000" />
       <workItem from="1730378151477" duration="1982000" />
-      <workItem from="1730393766483" duration="10107000" />
+      <workItem from="1730393766483" duration="10977000" />
     </task>
     <task id="LOCAL-00001" summary="Feat: Strings">
       <option name="closed" value="true" />
@@ -106,7 +109,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730329703898</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Feat: Exercice Strings">
+      <option name="closed" value="true" />
+      <created>1730411320127</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1730411320127</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,7 +128,8 @@
     <MESSAGE value="Feat: Strings" />
     <MESSAGE value="Fix: Arrays commit message" />
     <MESSAGE value="Feat: palomaBookStore exercice" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feat: palomaBookStore exercice" />
+    <MESSAGE value="Feat: Exercice Strings" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feat: Exercice Strings" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
