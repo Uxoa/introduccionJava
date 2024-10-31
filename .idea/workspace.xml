@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a396c4d9-899f-430a-879e-4258a1fb24bc" name="Changes" comment="Feat: palomaBookStore exercice">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/basics/Apuntes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/basics/Apuntes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/basics/Strings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/basics/Strings.java" afterDir="false" />
-    </list>
+    <list default="true" id="a396c4d9-899f-430a-879e-4258a1fb24bc" name="Changes" comment="Feat: palomaBookStore exercice" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,7 +72,7 @@
       <workItem from="1730231037872" duration="8065000" />
       <workItem from="1730365901741" duration="2647000" />
       <workItem from="1730378151477" duration="1982000" />
-      <workItem from="1730393766483" duration="10080000" />
+      <workItem from="1730393766483" duration="10107000" />
     </task>
     <task id="LOCAL-00001" summary="Feat: Strings">
       <option name="closed" value="true" />
