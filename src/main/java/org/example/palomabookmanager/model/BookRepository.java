@@ -1,11 +1,7 @@
 package org.example.palomabookmanager.model;
+
 import java.util.ArrayList;
 import java.util.List;
-
-/** Esta clase actua como un "almacenador" de los libros.
- *  Su función será gestionar la colección de libros, es decir, permitir
- *  añadir, eliminar y consultar todos los libros que el usuario quiera almacenar.
-*/
 
 // Definimos la clase BookRepository que gestionará una colección de libros
 public class BookRepository {
@@ -37,6 +33,4 @@ public class BookRepository {
     public boolean removeBook(String isbn) {
         return books.removeIf(book -> book.getIsbn().equals(isbn));
     }
-
-
 }
