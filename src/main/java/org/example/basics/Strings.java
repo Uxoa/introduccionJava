@@ -13,9 +13,6 @@ public class Strings {
         System.out.println("¿Son iguales? " + sonIguales);
 
 
-
-
-
         String name = "Paloma";
         String surname = new String("Babot");
 
