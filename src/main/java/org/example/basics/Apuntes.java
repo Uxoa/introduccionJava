@@ -4,6 +4,10 @@ public class Apuntes {
 
     public static void main(String[] args) {
 
+        // Variables: La declaración de una variable es una instrucción y no puede formar parte de una expresión.
+        // las expresiones se pueden combinar para obtener comportamientos más complejos en lugares inesperados
+        // y de formas inesperadas.
+
         // Incremento y decremento: no solo devuelven un valor, sino que también modifican el valor de la variable.
         var i = 0;
         //Al utilizar la notación prefija, primero se produce la modificación de la variable y luego se devuelve.
