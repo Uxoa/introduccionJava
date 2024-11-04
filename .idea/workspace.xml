@@ -5,7 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a396c4d9-899f-430a-879e-4258a1fb24bc" name="Changes" comment="Feat: Exercice Strings">
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/basics/Strings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/basics/Strings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/collections/Collection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/palomabookmanager/controller/BookController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/palomabookmanager/model/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/palomabookmanager/model/BookRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/palomabookmanager/view/BookView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/palomabookmanager/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/palomabookmanager/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +81,7 @@
       <workItem from="1730365901741" duration="2647000" />
       <workItem from="1730378151477" duration="1982000" />
       <workItem from="1730393766483" duration="13597000" />
-      <workItem from="1730741288019" duration="647000" />
+      <workItem from="1730741288019" duration="6312000" />
     </task>
     <task id="LOCAL-00001" summary="Feat: Strings">
       <option name="closed" value="true" />
