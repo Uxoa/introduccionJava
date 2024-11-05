@@ -11,6 +11,7 @@ public class Main {
         System.out.println("Velocidad inicial: " + car1.getVelocity());
         System.out.println("Ruedas: " + car1.getWheels());
         System.out.println("Velocidad después de acelerar: " + moto1.getVelocity());
+
         // Car Llamar al método frenar
         car1.frenar();
         System.out.println("Velocidad después de frenar: " + car1.getVelocity());

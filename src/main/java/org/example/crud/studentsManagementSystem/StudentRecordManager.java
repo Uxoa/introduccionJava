@@ -4,8 +4,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class StudentRecordManager {
-
-
     // creo una lista llamada students que almacena todos los registros de estudiantes
     private List<Student> students = new ArrayList<>();
 
