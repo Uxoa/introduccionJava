@@ -39,6 +39,17 @@ public class Main {
                     System.out.print("Lugar de residencia: ");
                     String address = scanner.nextLine();
 
+                    Student student = new Student(id, name, age, course, address);
+                    manager.addStudent(student);
+
+                case 2 :
+                    manager.showAllStudents();
+
+                case 3 :
+                    System.out.println("Busca a un estudiante por su ID: ");
+
+
+
             }
         }
 

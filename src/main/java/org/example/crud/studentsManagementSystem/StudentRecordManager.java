@@ -28,4 +28,21 @@ public class StudentRecordManager {
     }
 
 
+    // creo un método para buscar a los estudiantes por su ID
+    public void searchStudentById(String id){
+        // Recorro la lista de estudiantes uno por uno
+        for (Student student : students) {
+            // Comparo el id del estudiante actual con el id buscado
+            if (student.getId().equals(id)) {
+                // Si coincide, muestro la información del estudiante y termino el método
+                System.out.println("Estudiante encontrado: " + student);
+                return;
+            }
+        }
+        // Si recorre toda la lista y no encuentra el id, muestra este mensaje
+        System.out.println("Estudiante con ID " + id + " no encontrado.");
+
+    }
+
+
 }
