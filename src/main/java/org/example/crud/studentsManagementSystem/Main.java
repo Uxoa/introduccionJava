@@ -24,7 +24,24 @@ public class Main {
 
             int choice = scanner.nextInt();
             scanner.nextLine();
+
+            switch (choice){
+                case 1:
+                    System.out.print("Id: ");
+                    String id = scanner.nextLine();
+                    System.out.print("Nombre: ");
+                    String name = scanner.nextLine();
+                    System.out.print("Edad: ");
+                    int age = scanner.nextInt();
+                    scanner.nextLine();
+                    System.out.print("Curso que realiza: ");
+                    String course = scanner.nextLine();
+                    System.out.print("Lugar de residencia: ");
+                    String address = scanner.nextLine();
+
+            }
         }
+
 
     }
 }
