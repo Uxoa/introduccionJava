@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a396c4d9-899f-430a-879e-4258a1fb24bc" name="Changes" comment="Feat: Exercice Strings">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/herenciaVehiculos/Moto.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/herencia/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/herenciaVehiculos/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/herencia/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/herenciaVehiculos/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/herencia/Vehiculo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/herenciaVehiculos/Vehiculo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/herenciaVehiculos/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/herenciaVehiculos/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/herenciaVehiculos/Moto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/herenciaVehiculos/Moto.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +89,7 @@
       <workItem from="1730741288019" duration="11314000" />
       <workItem from="1730796613558" duration="14964000" />
       <workItem from="1730812872926" duration="259000" />
-      <workItem from="1730813557463" duration="1703000" />
+      <workItem from="1730813557463" duration="2191000" />
     </task>
     <task id="LOCAL-00001" summary="Feat: Strings">
       <option name="closed" value="true" />
