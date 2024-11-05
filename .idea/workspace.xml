@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a396c4d9-899f-430a-879e-4258a1fb24bc" name="Changes" comment="Feat: Exercice Strings">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/crud/librosPaloma/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/crud/librosPaloma/Libro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/crud/librosPaloma/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/crud/studentsManagementSystem/StudentRecordManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/crud/studentsManagementSystem/StudentRecordManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/herenciaVehiculos/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/herenciaVehiculos/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/crud/librosPaloma/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/crud/librosPaloma/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/crud/librosPaloma/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/crud/librosPaloma/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +90,7 @@
       <workItem from="1730812872926" duration="259000" />
       <workItem from="1730813557463" duration="3187000" />
       <workItem from="1730817658863" duration="389000" />
-      <workItem from="1730818187141" duration="6400000" />
+      <workItem from="1730818187141" duration="8135000" />
     </task>
     <task id="LOCAL-00001" summary="Feat: Strings">
       <option name="closed" value="true" />

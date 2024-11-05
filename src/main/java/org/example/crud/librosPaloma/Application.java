@@ -29,7 +29,18 @@ public class Application {
 
 
 
-    // método borrar un libro por ID
+    // método borrar un libro por Isbn
+    public void borrarLibroPorIsbn(String isbn){
+        for(Libro libro : libros){
+            if(libro.getIsbn().equals(isbn)){
+                libros.remove(libro);
+                System.out.println("Libro con Isbn " + isbn + " eliminado exitosamente.");
+                return;
+            }
+
+
+        }
+    }
 
     // método buscar un libro por ID
 

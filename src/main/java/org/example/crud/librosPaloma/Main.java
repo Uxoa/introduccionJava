@@ -14,8 +14,8 @@ public class Main {
             System.out.println("MIS LIBROS");
             System.out.println("1. Ver todos los libros");
             System.out.println("2. Añadir un libro");
-            System.out.println("3. Borrar un libro pos su ID");
-            System.out.println("4. Buscar un libro por su ID");
+            System.out.println("3. Borrar un libro pos su Isbn");
+            System.out.println("4. Buscar un libro por su Isbn");
             System.out.println("5. Salir de la aplicación");
             System.out.println("ELIGE UNA OPCIÓN:");
 
@@ -44,7 +44,10 @@ public class Main {
                     break;
 
                 case 3 :
-                    System.out.println("Has elegido -----> " + opcion + ". Borrar un libro por su ID");
+                    System.out.println("Has elegido -----> " + opcion + ". Borrar un libro por su Isbn");
+                        isbn = scanner.nextLine();
+                       application.borrarLibroPorIsbn(isbn);
+
                     break;
             }
 
