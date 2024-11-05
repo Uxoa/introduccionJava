@@ -8,9 +8,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/crud/studentsManagementSystem/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/crud/studentsManagementSystem/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/crud/studentsManagementSystem/StudentRecordManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/crud/studentsManagementSystem/StudentRecordManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/herencia/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/herencia/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/herencia/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/herencia/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/herencia/Vehiculo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/herencia/Vehiculo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +82,7 @@
       <workItem from="1730378151477" duration="1982000" />
       <workItem from="1730393766483" duration="13597000" />
       <workItem from="1730741288019" duration="11314000" />
-      <workItem from="1730796613558" duration="12635000" />
+      <workItem from="1730796613558" duration="14106000" />
     </task>
     <task id="LOCAL-00001" summary="Feat: Strings">
       <option name="closed" value="true" />

@@ -44,5 +44,20 @@ public class StudentRecordManager {
 
     }
 
+    public void deleteStudentById(String id) {
+        // Recorrer la lista de estudiantes
+        for (Student student : students) {
+            // Compruebo si el ID del estudiante coincide con el ID a eliminar
+            if (student.getId().equals(id)) {
+                // Si coincide, elimino al estudiante y muestro un mensaje
+                students.remove(student);
+                System.out.println("Estudiante con ID " + id + " eliminado exitosamente.");
+                return; // Salir del método después de eliminar
+            }
+        }
+        // Si no se encuentra el ID, mostrar mensaje
+        System.out.println("Estudiante con ID " + id + " no encontrado.");
+    }
+
 
 }

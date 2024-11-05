@@ -41,14 +41,28 @@ public class Main {
 
                     Student student = new Student(id, name, age, course, address);
                     manager.addStudent(student);
+                    break;
 
                 case 2 :
                     manager.showAllStudents();
+                    break;
 
                 case 3 :
                     System.out.println("Busca a un estudiante por su ID: ");
+                    id = scanner.nextLine();
+                    manager.searchStudentById(id);
+                    break;
 
+                case 4 :
+                    System.out.println("Elimina a un estudiante por su ID: ");
+                    id = scanner.nextLine();
+                    manager.deleteStudentById(id);
+                    break;
 
+                case 5 :
+                    System.out.println("Saliendo del programa, gracias!");
+                    scanner.close();
+                    return;
 
             }
         }
