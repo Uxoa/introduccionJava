@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a396c4d9-899f-430a-879e-4258a1fb24bc" name="Changes" comment="Feat: Exercice Strings">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/metodos/DatosUsuario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/metodos/MayoriaEdad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/metodos/TablaMultiplicar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,6 +52,7 @@
     "Application.PrimitiveTypes.executor": "Run",
     "Application.Strings.executor": "Run",
     "Application.StudentRecordManager.executor": "Run",
+    "Application.TablaMultiplicar.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -92,7 +92,7 @@
       <workItem from="1730812872926" duration="259000" />
       <workItem from="1730813557463" duration="3187000" />
       <workItem from="1730817658863" duration="389000" />
-      <workItem from="1730818187141" duration="13976000" />
+      <workItem from="1730818187141" duration="15697000" />
     </task>
     <task id="LOCAL-00001" summary="Feat: Strings">
       <option name="closed" value="true" />
