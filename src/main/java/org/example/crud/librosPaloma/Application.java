@@ -38,11 +38,17 @@ public class Application {
                 return;
             }
 
-
         }
     }
 
     // método buscar un libro por ID
+    public void buscarLibroPorIsbn(String isbn){
+        for(Libro libro : libros){
+            if (libro.getIsbn().equals(isbn)){
+                System.out.println("El libro correspondiente al Isbn " + isbn + " es: " + libro.getTitulo());
+            }
+        }
+    }
 
     // método para finalizar la aplicación
 }

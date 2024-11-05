@@ -45,10 +45,21 @@ public class Main {
 
                 case 3 :
                     System.out.println("Has elegido -----> " + opcion + ". Borrar un libro por su Isbn");
-                        isbn = scanner.nextLine();
-                       application.borrarLibroPorIsbn(isbn);
-
+                    isbn = scanner.nextLine();
+                    application.borrarLibroPorIsbn(isbn);
                     break;
+
+                case 4 :
+                    System.out.println("Has elegido -----> " + opcion + ". Buscar un libro por su Isbn");
+                    isbn = scanner.nextLine();
+                    application.buscarLibroPorIsbn(isbn);
+                    break;
+
+                case 5 :
+                    System.out.println("Finalizando la aplicación, gracias!");
+                    scanner.close();
+                    return;
+
             }
 
 
