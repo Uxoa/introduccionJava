@@ -7,10 +7,8 @@ public abstract class Vehiculo {
     public abstract void acelerar();
 
 
-    // Método para frenar
     public void frenar() {
-        // Disminuir la velocidad en 10, pero no permitir que sea menor que 0
-        this.velocity -= 10;
+
     }
 
 }

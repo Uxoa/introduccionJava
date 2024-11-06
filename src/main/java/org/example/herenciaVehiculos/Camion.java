@@ -17,7 +17,6 @@ public class Camion extends Vehiculo{
     }
 
     @Override
-    public String toString() {
-        return ("El Camión va a " + velocity + " km/h");
+    public String toString() {return ("El Camión va a " + velocity + " km/h");
     }
 }

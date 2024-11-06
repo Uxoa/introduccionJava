@@ -1,6 +1,5 @@
 package org.example.herenciaVehiculos;
 
-import java.lang.constant.ModuleDesc;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -17,14 +16,20 @@ public class Race {
 
 
     public void startRace(){
-    for (Vehiculo vehiculo : peloton){
-        vehiculo.acelerar();
-        System.out.println(vehiculo);
+        for (Vehiculo vehiculo : peloton){
+            vehiculo.acelerar();
+            System.out.println(vehiculo);
+        }
+
+
 
     }
 
+    public void stopRace() {
+        for (Vehiculo vehiculo : peloton){
+            vehiculo.frenar();
+            System.out.println(vehiculo);
 
-
+        }
     }
-
 }

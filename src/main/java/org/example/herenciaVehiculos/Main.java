@@ -6,8 +6,9 @@ public class Main {
         System.out.println("--------> CARRERA DE VEHÍCULOS <--------");
 
         Race race1 = new Race();
-        race1.startRace();
 
+         race1.startRace();
+         race1.stopRace();
     }
 }
 
