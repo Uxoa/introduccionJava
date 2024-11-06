@@ -1,14 +1,16 @@
 package org.example.HerenciaYPoliConArrayList;
 
-
 public class EmpleadoPorHoras extends Empleado{
 
-    public EmpleadoPorHoras(String nombre, Double salario, int horas) {
-        super(nombre, salario, horas);
+    private int horasTrabajadas;
+
+    public EmpleadoPorHoras(String nombre, double tarifaPorHora, int horasTrabajadas) {
+        super(nombre, tarifaPorHora); // Inicializa nombre y tarifa por hora en la clase base
+        this.horasTrabajadas = horasTrabajadas;
     }
 
     @Override
-    public void calcularSalario() {
-        super.calcularSalario();
+    public double calcularSalario() {
+        return salario * horasTrabajadas;
     }
 }

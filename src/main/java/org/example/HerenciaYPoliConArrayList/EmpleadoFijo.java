@@ -2,14 +2,12 @@ package org.example.HerenciaYPoliConArrayList;
 
 public class EmpleadoFijo extends Empleado {
 
-
-    public EmpleadoFijo(String nombre, Double salario, int horas) {
-        super(nombre, salario, horas);
+    public EmpleadoFijo(String nombre, double salarioFijo) {
+        super(nombre, salarioFijo);
     }
 
-
     @Override
-    public void calcularSalario() {
-        super.calcularSalario();
+    public double calcularSalario() {
+        return salario;
     }
 }
