@@ -4,24 +4,25 @@ He creado esta recopilación de ejercicios hechos en clase y otros ejercicios en
 
 Espero que, como a mi, estos ejercicios te sean útiles para mejorar tus habilidades en Java.
 
-1. [Metodos](#metodos)
-   - [Ejercicio: Descuento en Supermercado](#ejercicio-descuento-en-supermercado)
-   - [Ejercicio: Tabla de Multiplicar](#ejercicio-tabla-de-multiplicar)
-2. [Estructuras de Control](#estructuras-de-control)
-   - [Ejercicio: Control de Flujo If/Else](#ejercicio-control-de-flujo-ifelse)
-   - [Ejercicio: Bucles For y While](#ejercicio-bucles-for-y-while)
-3. [Colecciones](#colecciones)
-   - [Ejercicio: Manejo de ArrayList](#ejercicio-manejo-de-arraylist)
-   - [Ejercicio: Mapas y Diccionarios](#ejercicio-mapas-y-diccionarios)
-4. [POO - Programación Orientada a Objetos](#poo---programación-orientada-a-objetos)
-   - [Ejercicio: Clases y Objetos](#ejercicio-clases-y-objetos)
-   - [Ejercicio: Encapsulamiento](#ejercicio-encapsulamiento)
-5. [Herencia y Polimorfismo con ArrayList](#herencia-y-polimorfismo-con-arraylist)
-   - [Ejercicio: Gestión de Empleados](#ejercicio-gestión-de-empleados)
-   - [Ejercicio: Vehículos y Herencia](#ejercicio-vehículos-y-herencia)
-6. [Excepciones](#excepciones)
-   - [Ejercicio: Manejo de Excepciones](#ejercicio-manejo-de-excepciones)
-   - [Ejercicio: Excepciones Personalizadas](#ejercicio-excepciones-personalizadas)
+1. [Métodos](#1-métodos)
+   - [Ejercicio: Descuento en Supermercado](#1-1-ejercicio-descuento-en-supermercado)
+   - [Ejercicio: Tabla de Multiplicar](#1-2-ejercicio-tabla-de-multiplicar)
+2. [Estructuras de Control](#2-estructuras-de-control)
+   - [Ejercicio: Control de Flujo If/Else](#2-1-ejercicio-control-de-flujo-ifelse)
+   - [Ejercicio: Bucles For y While](#2-2-ejercicio-bucles-for-y-while)
+3. [Colecciones](#3-colecciones)
+   - [Ejercicio: Manejo de ArrayList](#3-1-ejercicio-manejo-de-arraylist)
+   - [Ejercicio: Mapas y Diccionarios](#3-2-ejercicio-mapas-y-diccionarios)
+4. [POO - Programación Orientada a Objetos](#4-poo---programación-orientada-a-objetos)
+   - [Ejercicio: Clases y Objetos](#4-1-ejercicio-clases-y-objetos)
+   - [Ejercicio: Encapsulamiento](#4-2-ejercicio-encapsulamiento)
+5. [Herencia y Polimorfismo con ArrayList](#5-herencia-y-polimorfismo-con-arraylist)
+   - [Ejercicio: Gestión de Empleados](#5-1-ejercicio-gestión-de-empleados)
+   - [Ejercicio: Vehículos y Herencia](#5-2-ejercicio-vehículos-y-herencia)
+6. [Excepciones](#6-excepciones)
+   - [Ejercicio: Manejo de Excepciones](#6-1-ejercicio-manejo-de-excepciones)
+   - [Ejercicio: Excepciones Personalizadas](#6-2-ejercicio-excepciones-personalizadas)
+
 
 ## Descripción de Ejercicios
 
