@@ -2,7 +2,7 @@ package org.example.herenciaVehiculos;
 
 public class Car extends Vehiculo {
 
-    public Car( int velocity) {
+    public Car() {
         super();
     }
 

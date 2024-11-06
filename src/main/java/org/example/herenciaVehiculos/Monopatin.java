@@ -2,7 +2,7 @@ package org.example.herenciaVehiculos;
 
 public class Monopatin extends Vehiculo {
 
-    public Monopatin(int velocity) {
+    public Monopatin() {
         super();
     }
 

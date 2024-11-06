@@ -1,10 +1,10 @@
 package org.example.herenciaVehiculos;
 
 public class Camion extends Vehiculo{
-    public Camion(int velocity) {
+
+    public Camion() {
         super();
     }
-
 
     @Override
     public void acelerar() {
