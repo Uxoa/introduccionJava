@@ -25,7 +25,6 @@ public void datosCliente() {
     scanner.nextLine();
     System.out.println("Cantidad: ");
     Double cantidadProducto = scanner.nextDouble();
-    Boolean tieneDescuento = false;
     System.out.println("---------------------------");
     System.out.println("Total: " + (precioProducto * cantidadProducto));
     System.out.println("---------------------------");
@@ -33,6 +32,10 @@ public void datosCliente() {
 
 }
     // método 20% descuento para compra > 1000
+    public void descuento(){
+    DescuentoSuper descuentoSuper = new DescuentoSuper();
+
+    }
 
 
     public static void main(String[] args) {

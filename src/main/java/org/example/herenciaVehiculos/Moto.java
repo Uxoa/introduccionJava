@@ -5,16 +5,19 @@ public class Moto extends Vehiculo{
         super(marca, velocity, wheels);
     }
 
-
     @Override
     public void acelerar() {
-        setVelocity(getVelocity() + 5); // Aumenta en 20 para el coche
+        this.velocity += 15;
     }
 
     @Override
     public void frenar() {
-        // Reduce la velocidad en 15 en lugar de 10
-        setVelocity(Math.max(getVelocity() - 30, 0));
+        this.velocity -= 20;
+    }
+
+    @Override
+    public String toString() {
+        return ("La moto va a " + velocity + " km/h");
     }
 }
 

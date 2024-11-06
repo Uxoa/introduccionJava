@@ -1,24 +1,23 @@
 package org.example.herenciaVehiculos;
 
-public class Car extends Vehiculo {
-
-    public Car(String marca, int velocity, byte wheels) {
+public class Camion extends Vehiculo{
+    public Camion(String marca, int velocity, byte wheels) {
         super(marca, velocity, wheels);
     }
 
+
     @Override
     public void acelerar() {
-        this.velocity += 5;
+        this.velocity += 10;
     }
 
     @Override
     public void frenar() {
-        this.velocity -= 15;
+        this.velocity -= 10;
     }
 
     @Override
     public String toString() {
-        return ("El Coche va a " + velocity + " km/h");
+        return ("El Camión va a " + velocity + " km/h");
     }
 }
-
