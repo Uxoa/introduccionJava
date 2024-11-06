@@ -24,9 +24,6 @@ public class Main {
                 animal.haceSonido();;
             }
 
-
-
-
         }
     }
 
