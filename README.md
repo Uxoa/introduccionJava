@@ -1,6 +1,6 @@
 # Introducción a Java
 
-He creado esta recopilación de ejercicios hechos en clase y otros ejercicios encontrados por la web para poder practicar Java. 
+He creado esta recopilación de ejercicios hechos en clase y otros ejercicios encontrados por la web para poder practicar Java.
 
 Aquí podrás encontrar ejercicios básicos de programación orientada a objetos, estructuras de control, manejo de colecciones y más, organizados en diferentes paquetes según el tema.
 
@@ -35,11 +35,11 @@ En este paquete encontrarás ejercicios sobre el uso de métodos en Java, incluy
 
 - **Ejercicio: Descuento en Supermercado**  
   Este ejercicio simula una compra en un supermercado. Si el total de la compra supera los 1000 euros y el producto pertenece a las categorías de "Lechuga" o "Calabacín", se aplica un descuento del 20%. El programa muestra el nombre del cliente, el producto, el precio, la cantidad, el descuento y el total a pagar.  
-  [Ver código](src/main/java/org/example/metodos/DescuentoSuper.java)
+  [Ver código](https://github.com/Uxoa/introduccionJava/blob/main/src/main/java/org/example/metodos/DescuentoSuper.java)
 
 - **Ejercicio: Tabla de Multiplicar**  
   Este ejercicio muestra la tabla de multiplicar de un número ingresado por el usuario. Usa un bucle para mostrar el resultado de multiplicar el número por cada valor del 1 al 10.  
-  [Ver código](src/main/java/org/example/metodos/TablaMultiplicar.java)
+  [Ver código](https://github.com/Uxoa/introduccionJava/blob/main/src/main/java/org/example/metodos/TablaMultiplicar.java)
 
 ### Estructuras de Control
 
@@ -47,11 +47,11 @@ En este paquete se exploran estructuras de control como `if`, `else`, `for`, y `
 
 - **Ejercicio: Control de Flujo If/Else**  
   Este ejercicio evalúa una condición introducida por el usuario y muestra un mensaje basado en los valores ingresados.  
-  [Ver código](src/main/java/org/example/estructurasControl/IfElse.java)
+  [Ver código](https://github.com/Uxoa/introduccionJava/blob/main/src/main/java/org/example/estructurasControl/IfElse.java)
 
 - **Ejercicio: Bucles For y While**  
   Practica con bucles `for` y `while` para ejecutar acciones repetitivas según diferentes condiciones.  
-  [Ver código](src/main/java/org/example/estructurasControl/Bucles.java)
+  [Ver código](https://github.com/Uxoa/introduccionJava/blob/main/src/main/java/org/example/estructurasControl/Bucles.java)
 
 ### Colecciones
 
@@ -59,11 +59,11 @@ Este paquete incluye ejercicios para el manejo de colecciones como `ArrayList`, 
 
 - **Ejercicio: Manejo de ArrayList**  
   Aprende a añadir, eliminar y recorrer elementos en un `ArrayList`.  
-  [Ver código](src/main/java/org/example/colecciones/ManejoArrayList.java)
+  [Ver código](https://github.com/Uxoa/introduccionJava/blob/main/src/main/java/org/example/colecciones/ManejoArrayList.java)
 
 - **Ejercicio: Mapas y Diccionarios**  
   Usa `HashMap` para almacenar pares clave-valor y realiza operaciones de búsqueda y actualización.  
-  [Ver código](src/main/java/org/example/colecciones/Mapas.java)
+  [Ver código](https://github.com/Uxoa/introduccionJava/blob/main/src/main/java/org/example/colecciones/Mapas.java)
 
 ### POO - Programación Orientada a Objetos
 
@@ -71,11 +71,11 @@ En este paquete se abordan conceptos fundamentales de POO, como clases, objetos,
 
 - **Ejercicio: Clases y Objetos**  
   Crea clases básicas y aprende a instanciar objetos con diferentes atributos y métodos.  
-  [Ver código](src/main/java/org/example/poo/ClasesYObjetos.java)
+  [Ver código](https://github.com/Uxoa/introduccionJava/blob/main/src/main/java/org/example/poo/ClasesYObjetos.java)
 
 - **Ejercicio: Encapsulamiento**  
   Ejercicio sobre encapsulación de datos, con métodos `get` y `set` para acceder y modificar los atributos de una clase.  
-  [Ver código](src/main/java/org/example/poo/Encapsulamiento.java)
+  [Ver código](https://github.com/Uxoa/introduccionJava/blob/main/src/main/java/org/example/poo/Encapsulamiento.java)
 
 ### Herencia y Polimorfismo con ArrayList
 
@@ -83,11 +83,11 @@ Este paquete contiene ejercicios de herencia y polimorfismo en Java, usando `Arr
 
 - **Ejercicio: Gestión de Empleados**  
   En este ejercicio, se implementa una estructura de clases para gestionar empleados. La clase `Empleado` es abstracta y sirve como base para `EmpleadoFijo` (con salario fijo) y `EmpleadoPorHoras` (con salario basado en horas trabajadas). Se usa polimorfismo para calcular y mostrar el salario de cada empleado en una lista de `ArrayList`.  
-  [Ver código](src/main/java/org/example/HerenciaYPoliConArrayList/Main.java)
+  [Ver código](https://github.com/Uxoa/introduccionJava/blob/main/src/main/java/org/example/HerenciaYPoliConArrayList/Main.java)
 
 - **Ejercicio: Vehículos y Herencia**  
   Simula una estructura de herencia donde diferentes tipos de vehículos (`Car`, `Moto`, `Camion`) heredan de una clase base `Vehiculo` y tienen diferentes formas de calcular el consumo de combustible.  
-  [Ver código](src/main/java/org/example/HerenciaYPoliConArrayList/Vehiculos.java)
+  [Ver código](https://github.com/Uxoa/introduccionJava/blob/main/src/main/java/org/example/HerenciaYPoliConArrayList/Vehiculos.java)
 
 ### Excepciones
 
@@ -95,11 +95,11 @@ Ejercicios enfocados en el manejo de excepciones para hacer el código más robu
 
 - **Ejercicio: Manejo de Excepciones**  
   Aprende a manejar excepciones comunes como `NullPointerException`, `ArrayIndexOutOfBoundsException`, entre otras.  
-  [Ver código](src/main/java/org/example/excepciones/ManejoExcepciones.java)
+  [Ver código](https://github.com/Uxoa/introduccionJava/blob/main/src/main/java/org/example/excepciones/ManejoExcepciones.java)
 
 - **Ejercicio: Excepciones Personalizadas**  
   Crea tus propias excepciones para manejar casos específicos en tus aplicaciones.  
-  [Ver código](src/main/java/org/example/excepciones/ExcepcionesPersonalizadas.java)
+  [Ver código](https://github.com/Uxoa/introduccionJava/blob/main/src/main/java/org/example/excepciones/ExcepcionesPersonalizadas.java)
 
 ## Clonar el Repositorio
 
