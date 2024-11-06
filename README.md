@@ -4,8 +4,6 @@ He creado esta recopilación de ejercicios hechos en clase y otros ejercicios en
 
 Espero que, como a mi, estos ejercicios te sean útiles para mejorar tus habilidades en Java.
 
-## Índice
-
 1. [Metodos](#metodos)
    - [Ejercicio: Descuento en Supermercado](#ejercicio-descuento-en-supermercado)
    - [Ejercicio: Tabla de Multiplicar](#ejercicio-tabla-de-multiplicar)
@@ -19,7 +17,7 @@ Espero que, como a mi, estos ejercicios te sean útiles para mejorar tus habilid
    - [Ejercicio: Clases y Objetos](#ejercicio-clases-y-objetos)
    - [Ejercicio: Encapsulamiento](#ejercicio-encapsulamiento)
 5. [Herencia y Polimorfismo con ArrayList](#herencia-y-polimorfismo-con-arraylist)
-   - [Ejercicio: Gestión de Empleados](#ejercicio-gestion-de-empleados)
+   - [Ejercicio: Gestión de Empleados](#ejercicio-gestión-de-empleados)
    - [Ejercicio: Vehículos y Herencia](#ejercicio-vehículos-y-herencia)
 6. [Excepciones](#excepciones)
    - [Ejercicio: Manejo de Excepciones](#ejercicio-manejo-de-excepciones)
