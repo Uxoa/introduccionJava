@@ -2,7 +2,7 @@ package org.example.herenciaAnimales;
 
 import java.util.List;
 
-public abstract class Animal {
+public class Animal {
 
     String sonido;
 
