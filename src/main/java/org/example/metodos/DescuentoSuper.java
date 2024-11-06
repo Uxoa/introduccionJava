@@ -15,27 +15,63 @@ public class DescuentoSuper {
 
 public void datosCliente() {
     // datos compra: nombre cliente, producto, precio, cantidad, descuento
-    //y total a pagar
     System.out.println("Nombre de Cliente: ");
     String nombreCliente = scanner.nextLine();
-    System.out.println("Producto: ");
-    String producto = scanner.nextLine();
-    System.out.println("Precio: ");
-    Double precioProducto = scanner.nextDouble();
-    scanner.nextLine();
-    System.out.println("Cantidad: ");
-    Double cantidadProducto = scanner.nextDouble();
-    System.out.println("---------------------------");
-    System.out.println("Total: " + (precioProducto * cantidadProducto));
-    System.out.println("---------------------------");
 
+    // defino los productos disponibles
+    String[] productos ={"Agua", "Lechuga", "Calabacín", "Pan"};
 
-}
-    // método 20% descuento para compra > 1000
-    public void descuento(){
-    DescuentoSuper descuentoSuper = new DescuentoSuper();
-
+    // muestro los productos disponibles para seleccionar recorriendo el array productos
+    System.out.println("Selecciones el Producto: ");
+    for (int i = 0; i < productos.length; i++ ){
+        System.out.println((i + 1) + ". " + productos[i]);
     }
+
+    //recojo la opcion seleccionada por el usuario
+    int opcionProducto = scanner.nextInt();
+    scanner.nextLine();
+
+    //valido la opción seleccionada por el usuario
+    String productoSeleccionado;
+    if (opcionProducto > 0 && opcionProducto <= productos.length) {
+        productoSeleccionado = productos[opcionProducto - 1];
+    } else {
+        System.out.println("Opción no válida. Seleccionando Agua por defecto.");
+        productoSeleccionado = "Agua";
+    }
+
+    System.out.println("Producto seleccionado: " + productoSeleccionado);
+
+    // Leer el precio y la cantidad del producto
+    System.out.println("Precio: ");
+    double precioProducto = scanner.nextDouble();
+    System.out.println("Cantidad: ");
+    double cantidadProducto = scanner.nextDouble();
+
+    // Calcular el total
+    double total = precioProducto * cantidadProducto;
+    double totalConDescuento = calcularDescuento(total);
+
+    // Mostrar los detalles de la compra
+    System.out.println("---------------------------");
+    System.out.println("Nombre de Cliente: " + nombreCliente);
+    System.out.println("Producto: " + productoSeleccionado);
+    System.out.println("Precio: " + precioProducto);
+    System.out.println("Cantidad: " + cantidadProducto);
+    System.out.println("Descuento aplicado: " + (total - totalConDescuento));
+    System.out.println("Total a pagar: " + totalConDescuento);
+    System.out.println("---------------------------");
+}
+
+    // Método para calcular el descuento si el total supera 1000
+    public double calcularDescuento(double total) {
+        if (total > 1000) {
+            return total * 0.8; // Aplica un 20% de descuento
+        } else {
+            return total; // Sin descuento
+        }
+    }
+
 
 
     public static void main(String[] args) {

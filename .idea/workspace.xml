@@ -5,11 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a396c4d9-899f-430a-879e-4258a1fb24bc" name="Changes" comment="Feat: Exercice Strings">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/herenciaAnimales/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/herenciaAnimales/Gato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/herenciaAnimales/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/herenciaAnimales/Perro.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/herenciaVehiculos/Camion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/herenciaVehiculos/Camion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/herenciaVehiculos/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/herenciaVehiculos/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/herenciaVehiculos/Race.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/herenciaVehiculos/Race.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/herenciaVehiculos/Vehiculo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/herenciaVehiculos/Vehiculo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/metodos/DescuentoSuper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/metodos/DescuentoSuper.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +101,7 @@
       <workItem from="1730817658863" duration="389000" />
       <workItem from="1730818187141" duration="22130000" />
       <workItem from="1730880406652" duration="8663000" />
-      <workItem from="1730895983055" duration="4873000" />
+      <workItem from="1730895983055" duration="9104000" />
     </task>
     <task id="LOCAL-00001" summary="Feat: Strings">
       <option name="closed" value="true" />
