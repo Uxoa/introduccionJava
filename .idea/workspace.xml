@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a396c4d9-899f-430a-879e-4258a1fb24bc" name="Changes" comment="Feat: Exercice Strings">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/HerenciaYPoliConArrayList/Empleado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/HerenciaYPoliConArrayList/EmpleadoFijo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/HerenciaYPoliConArrayList/EmpleadoPorHoras.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/HerenciaYPoliConArrayList/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/HerenciaYPoliConArrayList/Empleado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/HerenciaYPoliConArrayList/Empleado.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/HerenciaYPoliConArrayList/EmpleadoFijo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/HerenciaYPoliConArrayList/EmpleadoFijo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/HerenciaYPoliConArrayList/EmpleadoPorHoras.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/HerenciaYPoliConArrayList/EmpleadoPorHoras.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/HerenciaYPoliConArrayList/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/HerenciaYPoliConArrayList/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +99,7 @@
       <workItem from="1730817658863" duration="389000" />
       <workItem from="1730818187141" duration="22130000" />
       <workItem from="1730880406652" duration="8663000" />
-      <workItem from="1730895983055" duration="13946000" />
+      <workItem from="1730895983055" duration="18357000" />
     </task>
     <task id="LOCAL-00001" summary="Feat: Strings">
       <option name="closed" value="true" />
@@ -154,6 +154,17 @@
     <MESSAGE value="Feat: palomaBookStore exercice" />
     <MESSAGE value="Feat: Exercice Strings" />
     <option name="LAST_COMMIT_MESSAGE" value="Feat: Exercice Strings" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/herenciaVehiculos/Car.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
