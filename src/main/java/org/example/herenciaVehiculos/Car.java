@@ -2,8 +2,8 @@ package org.example.herenciaVehiculos;
 
 public class Car extends Vehiculo {
 
-    public Car(String marca, int velocity, byte wheels) {
-        super(marca, velocity, wheels);
+    public Car( int velocity) {
+        super();
     }
 
     @Override

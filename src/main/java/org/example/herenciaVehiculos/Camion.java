@@ -1,8 +1,8 @@
 package org.example.herenciaVehiculos;
 
 public class Camion extends Vehiculo{
-    public Camion(String marca, int velocity, byte wheels) {
-        super(marca, velocity, wheels);
+    public Camion(int velocity) {
+        super();
     }
 
 

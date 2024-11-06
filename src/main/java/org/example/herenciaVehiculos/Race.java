@@ -7,14 +7,13 @@ public class Race {
 
     List<Vehiculo> peloton = new ArrayList<>(
             List.of(
-                    new Camion("Ford Truck", 20, (byte) 4),
-                    new Car("Toyota", 15, (byte) 4),
-                    new Moto("Harley Davidson", 30, (byte) 2)
+
+                    new Moto()
             )
     );
 
 
-    public static void startRace(List<Vehiculo> peloton){
+    public void startRace(){
     for (Vehiculo vehiculo : peloton){
         vehiculo.acelerar();
         System.out.println(vehiculo);

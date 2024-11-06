@@ -1,20 +1,8 @@
 package org.example.herenciaVehiculos;
 
 public abstract class Vehiculo {
-    private String marca;
-    int velocity;
-    private byte wheels;
+    int velocity = 0;
 
-    public Vehiculo(String marca, int velocity, byte wheels) {
-        this.marca = marca;
-        this.velocity = velocity;
-        this.wheels = wheels;
-    }
-
-    // Método para acelerar
-//    public void acelerar() {
-//        this.velocity += 10;
-//    }
 
     public abstract void acelerar();
 
@@ -25,13 +13,4 @@ public abstract class Vehiculo {
         this.velocity -= 10;
     }
 
-
-    @Override
-    public String toString() {
-        return "Vehiculo{" +
-                "marca='" + marca + '\'' +
-                ", velocity=" + velocity +
-                ", wheels=" + wheels +
-                '}';
-    }
 }
