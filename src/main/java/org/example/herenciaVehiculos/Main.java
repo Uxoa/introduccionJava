@@ -5,10 +5,12 @@ public class Main {
 
         System.out.println("--------> CARRERA DE VEHÍCULOS <--------");
 
+        // TODO mirar mejor si es util
         Race race1 = new Race();
+        Race race2 = race1;
 
          race1.startRace();
-         race1.stopRace();
+         race2.stopRace();
     }
 }
 
